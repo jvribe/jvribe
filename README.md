@@ -25,7 +25,7 @@ I enjoy building things that solve real operational problems — from automation
 📚 Education & Learning
 
 * ✅ Java Fullstack Bootcamp — Generation Brasil · Completed September 2026
-* ⚡ AI Java Back-end — Santander Open Academy / DIO
+* ✅ AI Java Back-end — Santander Open Academy / DIO · Completed August 2026
 * 🎓 Software Engineering — UNINTER
 
 ⸻
