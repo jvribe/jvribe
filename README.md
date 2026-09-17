@@ -1,39 +1,123 @@
-### Hi, I'm João Victor Ribeiro 👋
+Hi, I’m João Victor Ribeiro 👋
 
-Backend developer focused on Java and Python. Currently enrolled in a Java Fullstack bootcamp and pursuing a Software Engineering degree.
+Backend developer focused on Java and Python. Currently pursuing a Software Engineering degree and building applications with Java, Spring Boot, Python and modern web technologies.
 
-I enjoy building things that solve real operational problems from automation scripts to full applications. Always looking for the next thing to learn and ship.
+I enjoy building things that solve real operational problems — from automation scripts to full applications and REST APIs. Always looking for the next thing to learn and ship.
 
-------
+⸻
 
-## 🛠️ Stack
+🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nextjs,tailwind,mysql,git,github" />
+</p>
 
-------
+⸻
 
-## 📚 Currently learning
+📊 GitHub Languages
 
-- ⚡ **Java Fullstack Bootcamp** — Generation Brasil
-- ⚡ **AI Java Back-end** — Santander Open Academy / DIO
-- 🎓 **Software Engineering** — UNINTER
+<p align="left">
+  <img src="./assets/github-languages.svg" height="180" alt="GitHub language statistics" />
+</p>
 
-------
+⸻
 
-## 🚀 Projects
+📚 Education & Learning
 
-### [sudoku.jribeiro.me](https://sudoku.jribeiro.me/)
+* ✅ Java Fullstack Bootcamp — Generation Brasil · Completed September 2026
+* ⚡ AI Java Back-end — Santander Open Academy / DIO
+* 🎓 Software Engineering — UNINTER
+
+⸻
+
+🚀 Projects
+
+🏦 Conta Bancária
+
+Java application focused on Object-Oriented Programming, simulating a banking system with account management and financial transactions.
+
+Java OOP Inheritance Polymorphism Interfaces
+
+Features:
+
+* Account creation and management
+* Deposits and withdrawals
+* Transfers between accounts
+* Current and savings accounts
+* Account search and CRUD operations
+
+⸻
+
+💊 Farmácia API REST
+
+RESTful API for pharmacy inventory and sales management, developed during the Generation Brasil Java Full Stack Bootcamp.
+
+Built with a layered architecture and deployed to production.
+
+Java Spring Boot Spring Security JWT PostgreSQL JPA Hibernate JUnit Swagger Render
+
+Features:
+
+* JWT authentication and authorization
+* User management
+* Product CRUD
+* Category CRUD
+* Inventory management
+* Protected REST endpoints
+* PostgreSQL persistence
+* Swagger/OpenAPI documentation
+* Production deployment on Render
+
+🔗 Live API · Swagger
+
+⸻
+
+☀️ BitWeather
+
+Interactive weather application with a retro 8-bit / Pixel Art interface.
+
+Consumes the Open-Meteo API for geocoding, current weather conditions and weekly forecasts.
+
+JavaScript HTML5 CSS3 REST API Jest
+
+Features:
+
+* City search and geocoding
+* Current weather conditions
+* Weekly forecast
+* Dynamic day/night/rain interface
+* Weather metrics and icons
+* API error handling
+* Automated tests with Jest
+
+⸻
+
+🎮 sudoku.jribeiro.me
 
 Full Sudoku game built and deployed in production.
- `Next.js` `React` `JavaScript` `Tailwind CSS`
 
-### Tax Automation — Kont.
+Next.js React JavaScript Tailwind CSS
 
-Python scripts to automate accounting routines and fiscal processes.
- `Python`
+⸻
 
-------
+🧾 Tax Automation — Kont.
 
-## 📬 Contact
+Python scripts developed to automate accounting routines and fiscal processes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ribeirojv) [![Site](https://img.shields.io/badge/jribeiro.me-000000?style=flat&logo=safari&logoColor=white)](https://jribeiro.me/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joao@jribeiro.me)
+Python Automation
+
+⸻
+
+📬 Contact
+
+<p align="left">
+  <a href="https://linkedin.com/in/ribeirojv">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jribeiro.me">
+    <img src="https://img.shields.io/badge/jribeiro.me-000000?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="mailto:joao@jribeiro.me">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
